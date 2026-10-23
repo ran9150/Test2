@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AstraDash"
+rootProject.name = "AstroPulse"
 include(":app")
